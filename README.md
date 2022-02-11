@@ -1,0 +1,2 @@
+# 2D-Ising-Model
+I have created a 2 dimensional Ising model that I used to represent a ferromagnetic material with the lattice sites representing spins in the material that are able to take on one of two states, up (+1) or down (-1). I then investigated the effect temperature, grid size and initial conditions have on the Ising model. This was achieved by taking samples of the configuration of the Ising model, using the Metropolis algorithm, at thermal equilibrium under different conditions and comparing results. 
